@@ -1,0 +1,8 @@
+Notice, I completed the Extra credit, and the tree5.py and tree10.py will take long time, which will do training on the sets of depth-5 trees and depth-10 trees and generate the corresponding transformed datasets. 
+And since I also upload the transformed datasets on the extra/ directory, just commentting out the "python3 tree5.py" and "python3 tree10.py" could also reproduce my experiment smoothl, and save time.
+
+
+Command to run my program: 
+	chmod +x run.sh
+	
+	bash run.sh

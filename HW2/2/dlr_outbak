@@ -1,0 +1,9 @@
+lr=1.00, cross-validation accuracy=67.33%, and standard deviation is 0.08
+lr=0.10, cross-validation accuracy=73.20%, and standard deviation is 0.01
+lr=0.01, cross-validation accuracy=73.87%, and standard deviation is 0.02
+The best lr = 0.01, the corresponding cross-validation accuracy = 73.87%
+The total number of updates the learning algorithm performs on the training set is 3905
+The development set accuracy is 76.00%
+The test set accuracy is 77.11%
+Majority baseline accuracy on test set is 52.24%
+Majority baseline accuracy on development set is 56.00%

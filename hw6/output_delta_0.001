@@ -1,0 +1,2 @@
+epoch=95 cur_obj_val=111998 delta=0.0001 Done!
+On Test dataset: P=0.501826 R=0.431777 and F1=0.464174

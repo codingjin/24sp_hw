@@ -1,0 +1,75 @@
+Environment Requirement:
+(1) scikit-learn, I used it to do cross-validation dataset split.
+(2) XGBoost, https://xgboost.readthedocs.io/en/stable/install.html, I used it on one submission.
+
+The data folder, data/ should put in project/ directory
+
+Step 0: data processing
+Run the script data_processing.sh with this command: bash data_processing.sh
+
+
+
+Submission 1: Decision Tree
+Enter the directory: decision_tree/
+Run the script decision_tree.sh with this command: bash decision_tree.sh
+
+The generated file, lim_depth_eval.csv, is the file I submitted on Kaggle, named 'lim_depth_eval.csv'.
+The cross-validation program is depth_tuning.py
+
+
+
+Submission 2: Bagging on Decision Tree
+Enter the directory: bagging_tree/
+Run the script bagging_tree.sh with this command: bash bagging_tree.sh
+
+The generated file, baggingtree_eval_submit.csv, is the file I submitted on Kaggle, named 'baggingtree_eval_submit.csvbaggingtree_eval_submit.csv'. 
+The cross-validation results are in cv_results/ directory, and I run the program baggingtree_cv.py to get that.
+
+
+
+Submission 3: (Averaged) Perceptron
+Enter the directory: perceptron/
+Run the script perceptron.sh with this command: bash perceptron.sh
+
+The generated file, perceptron_tfidf.misc.submit.csv, is the file I submitted on Kaggle, named 'perceptron_tfidf.misc.submit.csv'.
+The cross-validation program is averaged_cv.py
+
+
+
+Submission 4: Logistic Regression
+Enter the directory: lr/
+Run the script lr.sh with this command: bash lr.sh
+
+The generated file, lr_tfidf_misc.submittion.csv, is the file I submitted on Kaggle, named 'lr_tfidf_misc.submittion.csv'.
+The cross-validation program is lr_cv.py
+
+
+
+Submission 5: SVM
+Enter the directory: svm/
+Run the script svm.sh with this command: bash svm.sh
+
+The generated file, svm_tfidf_misc.submission.csv, is the file I submitted on Kaggle, named 'svm_tfidf_misc.submission.csv'.
+The cross-validation program is svm_cv.py
+
+
+
+Submission 6: XGBoost
+Enter the directory: xgboost/
+Run the script xgboost.sh with this command: bash xgboost.sh
+
+The generated file, xgb.submission.csv, is the file I submitted on Kaggle, named 'xgb.submission.csv'.
+The hyper-parameter searching program is xgboost_tuning.py
+
+
+
+Notice: Since XGBoost is the one I directly use the XGBoost library, I did not write this part in my report. Instead, I wrote my Neural Network implementation in my report, but I did not be able to submit that part on Kaggle on time; I also want to include the corresponding programs here.
+
+Neural Network
+Enter the directory: nn/
+run the script nn.sh with this command: bash nn.sh
+
+The generated file, nn.submission.csv, is the file for Kaggle, although I did not catch the deadline to submit it.
+The cross-validation program is nn_cv.py
+
+

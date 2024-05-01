@@ -1,0 +1,78 @@
+lr=1.000000, sigma=1000000000.000000, cv_accuracy=0.8250
+lr=1.000000, sigma=100000000.000000, cv_accuracy=0.8239
+lr=1.000000, sigma=10000000.000000, cv_accuracy=0.8255
+lr=1.000000, sigma=1000000.000000, cv_accuracy=0.8269
+lr=1.000000, sigma=100000.000000, cv_accuracy=0.8278
+lr=1.000000, sigma=10000.000000, cv_accuracy=0.8079
+lr=1.000000, sigma=1000.000000 are bad hyperparameters! cv_accuracy=0.612571
+lr=1.000000, sigma=100.000000, cv_accuracy=0.7759
+lr=1.000000, sigma=10.000000 are bad hyperparameters! cv_accuracy=0.539714
+lr=1.000000, sigma=1.000000 are bad hyperparameters! cv_accuracy=0.492286
+lr=0.500000, sigma=1000000000.000000, cv_accuracy=0.8278
+lr=0.500000, sigma=100000000.000000, cv_accuracy=0.8293
+lr=0.500000, sigma=10000000.000000, cv_accuracy=0.8305
+lr=0.500000, sigma=1000000.000000, cv_accuracy=0.8279
+lr=0.500000, sigma=100000.000000, cv_accuracy=0.8297 
+lr=0.500000, sigma=10000.000000, cv_accuracy=0.8130
+lr=0.500000, sigma=1000.000000, cv_accuracy=0.7895
+lr=0.500000, sigma=100.000000 are bad hyperparameters! cv_accuracy=0.618571
+lr=0.500000, sigma=10.000000 are bad hyperparameters! cv_accuracy=0.660286
+lr=0.100000, sigma=1000000000.000000, cv_accuracy=0.8191
+lr=0.100000, sigma=100000000.000000, cv_accuracy=0.8164                  
+lr=0.100000, sigma=10000000.000000, cv_accuracy=0.8174                            
+lr=0.100000, sigma=1000000.000000, cv_accuracy=0.8169                            
+lr=0.100000, sigma=100000.000000, cv_accuracy=0.8177                 
+lr=0.100000, sigma=10000.000000, cv_accuracy=0.8110                                                      
+lr=0.100000, sigma=1000.000000, cv_accuracy=0.7890
+lr=0.100000, sigma=100.000000, cv_accuracy=0.7843
+lr=0.100000, sigma=10.000000 are bad hyperparameters! cv_accuracy=0.669143
+lr=0.100000, sigma=1.000000 are bad hyperparameters! cv_accuracy=0.527143
+lr=0.050000, sigma=1000000000.000000, cv_accuracy=0.8059
+lr=0.050000, sigma=100000000.000000, cv_accuracy=0.8052
+lr=0.050000, sigma=10000000.000000, cv_accuracy=0.8060
+lr=0.050000, sigma=1000000.000000, cv_accuracy=0.8090
+lr=0.050000, sigma=100000.000000, cv_accuracy=0.8054 
+lr=0.050000, sigma=10000.000000, cv_accuracy=0.8034
+lr=0.050000, sigma=1000.000000, cv_accuracy=0.7892
+lr=0.050000, sigma=100.000000, cv_accuracy=0.7842
+lr=0.050000, sigma=10.000000, cv_accuracy=0.7857
+lr=0.050000, sigma=1.000000 are bad hyperparameters! cv_accuracy=0.507714
+lr=0.050000, sigma=0.100000 are bad hyperparameters! cv_accuracy=0.508000
+lr=0.010000, sigma=1000000000.000000, cv_accuracy=0.7895
+lr=0.010000, sigma=100000000.000000, cv_accuracy=0.7898
+lr=0.010000, sigma=10000000.000000, cv_accuracy=0.7893
+lr=0.010000, sigma=1000000.000000, cv_accuracy=0.7891
+lr=0.010000, sigma=100000.000000, cv_accuracy=0.7898 
+lr=0.010000, sigma=10000.000000, cv_accuracy=0.7890
+lr=0.010000, sigma=1000.000000, cv_accuracy=0.7870
+lr=0.010000, sigma=100.000000, cv_accuracy=0.7843
+lr=0.010000, sigma=10.000000, cv_accuracy=0.7855
+lr=0.010000, sigma=1.000000 are bad hyperparameters! cv_accuracy=0.637143
+lr=0.010000, sigma=0.100000 are bad hyperparameters! cv_accuracy=0.503429
+lr=0.001000, sigma=1000000000.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=100000000.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=10000000.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=1000000.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=100000.000000, cv_accuracy=0.7842 
+lr=0.001000, sigma=10000.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=1000.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=100.000000, cv_accuracy=0.7842
+lr=0.001000, sigma=10.000000, cv_accuracy=0.7854
+lr=0.001000, sigma=1.000000, cv_accuracy=0.7822
+lr=0.001000, sigma=0.100000 are bad hyperparameters! cv_accuracy=0.506571
+lr=0.001000, sigma=0.010000 are bad hyperparameters! cv_accuracy=0.507714
+lr=0.000100, sigma=1000000000.000000, cv_accuracy=0.7858
+lr=0.000100, sigma=100000000.000000, cv_accuracy=0.7858
+lr=0.000100, sigma=10000000.000000, cv_accuracy=0.7858
+lr=0.000100, sigma=1000000.000000, cv_accuracy=0.7858
+lr=0.000100, sigma=100000.000000, cv_accuracy=0.7859 
+lr=0.000100, sigma=10000.000000, cv_accuracy=0.7857
+lr=0.000100, sigma=1000.000000, cv_accuracy=0.7857
+lr=0.000100, sigma=100.000000, cv_accuracy=0.7858
+lr=0.000100, sigma=10.000000, cv_accuracy=0.7855
+lr=0.000100, sigma=1.000000, cv_accuracy=0.7833
+lr=0.000100, sigma=0.100000, cv_accuracy=0.7681
+lr=0.000100, sigma=0.010000 are bad hyperparameters! cv_accuracy=0.528857
+lr=0.000010, sigma=1000000000.000000 are bad hyperparameters! cv_accuracy=0.699429
+lr=0.000010, sigma=100000000.000000 are bad hyperparameters! cv_accuracy=0.698286
+best_lr=0.500000, best_sigma=10000000.000000, best_cv_accuracy=0.8305

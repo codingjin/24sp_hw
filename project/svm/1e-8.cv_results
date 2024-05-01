@@ -1,0 +1,42 @@
+lr= 0.01 c= 100000000.0 cv_validation_accuracy= 0.7273142857142856
+lr= 0.01 c= 10000000.0 cv_validation_accuracy= 0.7175428571428573
+lr= 0.01 c= 1000000.0 are bad hyperparameters! training_accuracy= 0.6325714285714286 cv_accuracy= 0.6354285714285715
+lr= 0.01 c= 100000.0 are bad hyperparameters! training_accuracy= 0.5657142857142857 cv_accuracy= 0.5628571428571428
+lr= 0.01 c= 10000.0 are bad hyperparameters! training_accuracy= 0.5321428571428571 cv_accuracy= 0.5534285714285714
+lr= 0.001 c= 100000000.0 cv_validation_accuracy= 0.7232571428571429
+lr= 0.001 c= 10000000.0 are bad hyperparameters! training_accuracy= 0.5941428571428572 cv_accuracy= 0.5854285714285714
+lr= 0.001 c= 1000000.0 cv_validation_accuracy= 0.7393714285714286
+lr= 0.001 c= 100000.0 cv_validation_accuracy= 0.7266285714285714
+lr= 0.001 c= 10000.0 cv_validation_accuracy= 0.7773714285714285
+lr= 0.001 c= 1000.0 are bad hyperparameters! training_accuracy= 0.6390714285714286 cv_accuracy= 0.636
+lr= 0.0001 c= 100000000.0 cv_validation_accuracy= 0.7473714285714286
+lr= 0.0001 c= 10000000.0 cv_validation_accuracy= 0.7622285714285714
+lr= 0.0001 c= 1000000.0 cv_validation_accuracy= 0.8005714285714285
+lr= 0.0001 c= 100000.0 cv_validation_accuracy= 0.7909714285714287
+lr= 0.0001 c= 10000.0 cv_validation_accuracy= 0.8066857142857143
+lr= 0.0001 c= 1000.0 cv_validation_accuracy= 0.7911999999999999
+lr= 1e-05 c= 100000000.0 cv_validation_accuracy= 0.7947428571428572
+lr= 1e-05 c= 10000000.0 cv_validation_accuracy= 0.7894857142857142
+lr= 1e-05 c= 1000000.0 cv_validation_accuracy= 0.8044571428571429
+lr= 1e-05 c= 100000.0 cv_validation_accuracy= 0.8197142857142856
+lr= 1e-05 c= 10000.0 cv_validation_accuracy= 0.8231999999999999
+lr= 1e-05 c= 1000.0 cv_validation_accuracy= 0.7877142857142857
+lr= 1e-06 c= 100000000.0 cv_validation_accuracy= 0.8016571428571428
+lr= 1e-06 c= 10000000.0 cv_validation_accuracy= 0.8039428571428571
+lr= 1e-06 c= 1000000.0 cv_validation_accuracy= 0.8119428571428571
+lr= 1e-06 c= 100000.0 cv_validation_accuracy= 0.828
+lr= 1e-06 c= 10000.0 cv_validation_accuracy= 0.7882857142857143
+lr= 1e-06 c= 1000.0 cv_validation_accuracy= 0.7841142857142857
+lr= 1e-07 c= 100000000.0 cv_validation_accuracy= 0.8058857142857143
+lr= 1e-07 c= 10000000.0 cv_validation_accuracy= 0.8188571428571428
+lr= 1e-07 c= 1000000.0 cv_validation_accuracy= 0.8272571428571428
+lr= 1e-07 c= 100000.0 cv_validation_accuracy= 0.7884
+lr= 1e-07 c= 10000.0 cv_validation_accuracy= 0.7841142857142857
+lr= 1e-07 c= 1000.0 cv_validation_accuracy= 0.7861142857142858
+lr= 1e-08 c= 100000000.0 cv_validation_accuracy= 0.8197142857142857
+lr= 1e-08 c= 10000000.0 cv_validation_accuracy= 0.8286857142857142
+lr= 1e-08 c= 1000000.0 cv_validation_accuracy= 0.788457142857143
+lr= 1e-08 c= 100000.0 cv_validation_accuracy= 0.7841142857142857
+lr= 1e-08 c= 10000.0 cv_validation_accuracy= 0.7862285714285714
+lr= 1e-08 c= 1000.0 cv_validation_accuracy= 0.7502857142857143
+best_lr= 1e-08 best_c= 10000000.0 best_cv_validation_accuracy= 0.8286857142857142 (best result!)

@@ -1,0 +1,12 @@
+lr=1000.000000, cross-validation accuracy=87.525714%, and standard deviation is 0.030931, testaccuracy=84.044444%
+lr=100.000000, cross-validation accuracy=92.165714%, and standard deviation is 0.005235, testaccuracy=82.657778%
+lr=50.000000, cross-validation accuracy=93.137143%, and standard deviation is 0.003629, testaccuracy=82.488889%
+lr=10.000000, cross-validation accuracy=93.674286%, and standard deviation is 0.004324, testaccuracy=82.328889%
+lr=1.000000, cross-validation accuracy=93.765714%, and standard deviation is 0.004413, testaccuracy=82.240000%
+lr=0.100000, cross-validation accuracy=93.771429%, and standard deviation is 0.004635, testaccuracy=82.231111%
+lr=0.010000, cross-validation accuracy=93.777143%, and standard deviation is 0.004630, testaccuracy=82.222222%
+lr=0.001000, cross-validation accuracy=93.771429%, and standard deviation is 0.004452, testaccuracy=82.222222%
+lr=0.000100, cross-validation accuracy=93.771429%, and standard deviation is 0.004452, testaccuracy=82.222222%
+lr=0.000010, cross-validation accuracy=93.771429%, and standard deviation is 0.004452, testaccuracy=82.222222%
+lr=0.000001, cross-validation accuracy=93.771429%, and standard deviation is 0.004452, testaccuracy=82.222222%
+The best lr = 0.010000, the corresponding cross-validation accuracy = 93.777143%

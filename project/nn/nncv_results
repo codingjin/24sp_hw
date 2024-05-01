@@ -1,0 +1,13 @@
+lr=0.1000 bs=128 cv_accuracy=0.8062
+lr=0.1000 bs=64 cv_accuracy=0.8062
+lr=0.1000 bs=32 cv_accuracy=0.8039
+lr=0.0100 bs=128 cv_accuracy=0.8246
+lr=0.0100 bs=64 cv_accuracy=0.8153
+lr=0.0100 bs=32 cv_accuracy=0.8116
+lr=0.0010 bs=128 cv_accuracy=0.7857
+lr=0.0010 bs=64 cv_accuracy=0.7965
+lr=0.0010 bs=32 cv_accuracy=0.8226
+lr=0.0001 bs=128 cv_accuracy=0.6815
+lr=0.0001 bs=64 cv_accuracy=0.7663
+lr=0.0001 bs=32 cv_accuracy=0.7855
+The best hyper-parameter is: lr=0.0100 bs=128 cv_accuracy=0.8246
